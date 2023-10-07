@@ -4,3 +4,6 @@
 [submodule "Seguridad_Informatica_Luis"]
 	path = Seguridad_Informatica_Luis
 	url = https://github.com/LUISGARCIA7/Seguridad_Informatica_Luis.git
+[submodule "seguridad_informatica_susana"]
+	path = seguridad_informatica_susana
+	url = git@github.com:susanazavala/seguridad_informatica_susana.git
